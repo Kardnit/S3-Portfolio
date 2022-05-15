@@ -20,4 +20,4 @@ Repository: [MiMadre](https://github.com/Kardnit/Mi-Madre)
 #### Single page
 In the application we can call the API services as seen in the picture below.
 
-![alt text](https://github.com/[Kardnit]/[Portfolio]/blob/[main]/images/Frontend.png?raw=true)
+![alt text](https://github.com/[Kardnit]/[Portfolio]/blob/[main]/Images/Frontend.png?raw=true)
