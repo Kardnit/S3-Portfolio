@@ -2,14 +2,14 @@
 
 ## Table of Contents
 
-1. [Web Application]
-2. [Software Quality]
-3. [Agile Method]
-4. [CI/CD]
-5. [Cultural Differences and Ethics]
-6. [Requirements and Design]
-7. [Business Processes]
-8. [Professional]
+1. Web Application
+2. Software Quality
+3. Agile Method
+4. CI/CD
+5. Cultural Differences and Ethics
+6. Requirements and Design
+7. Business Processes
+8. Professional
 
 ## 1) Web Application
 
