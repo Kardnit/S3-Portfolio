@@ -82,7 +82,7 @@ I use SonarCloud to check the quality of the code whenever I push something new 
 
 ![SonarCloud](https://user-images.githubusercontent.com/73908937/168485474-5213f916-9e1d-4064-b654-3b98aa30d65d.png)
 
-## 4)Agile Method
+## 3)Agile Method
 
 In this semester I Implemented the usage of SCRUM along with the usage of the project board on JIRA and Shortcut. I had multiple cycles of development (sprints) with 1 cycle containing 2-3 weeks. In my group we had daily meetings in the morning and also did peer-feedback occasionally, to clear up any problems if needed.
 
