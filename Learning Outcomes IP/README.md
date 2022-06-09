@@ -32,14 +32,16 @@ Mi-Madre Services use Spring Framework (a robust programming and configuration m
 
 Link (it will give a Whitelabel error because you need to add /work, /patterndesign or /product to the link): [Services](mi-madre-7ps3n.ondigitalocean.app)
 
-For the services I use Restful API because the user has no contact with the back-end so there is no need for a gui. The website has Object Relational Mapping and Asynchronous Communication.
+For the services I use Restful API because the user has no contact with the back-end so there is no need for a gui. 
+
+The website has Object Relational Mapping and Asynchronous Communication.
 
 ## 2) Software Quality
 
 ### 1. JWT
 ...
 
-![JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+JWT Research: ![JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
 
 ### 2. Auth0
 ...
@@ -48,7 +50,7 @@ For the services I use Restful API because the user has no contact with the back
 ...
 
 ### 4. DigitalOcean Database
-I use DigitalOcean Database to display the products that my clients wishes to and testing purposes (by creating testing tables) the reason I use this database is 
+I use DigitalOcean Database to store/display the products that my clients wishes to and testing purposes (by creating testing tables) the reasons I use this database are 
 
 1) Easy setup and maintenance
 2) Highly scalable
@@ -67,12 +69,19 @@ spring.jackson.serialization.fail-on-empty-beans=false
 ```
 ### 5. Static/Dynamic code analysis
 
-1) Static
-I use SonarCloud to check the quality of the code whenever I push something new to my repository and see if there are any problems in it.
+|App/Tool|Type|example| 
+|---:|---|---| 
+| **SonarCloud**| Static | I use SonarCloud to check the quality of the code whenever I push something new to my repository and see if there are any problems in it so I can fix these problems without any delay and have the most optimal coding. |
+| **Postman** | Dynamic | I use Postman
 
-2) Dynamic
+1) Static
+I use SonarCloud to check the quality of the code whenever I push something new to my repository and see if there are any problems in it so I can fix these problems without any delay and have the most optimal coding.
 
 ![SonarCloud](https://user-images.githubusercontent.com/73908937/168485474-5213f916-9e1d-4064-b654-3b98aa30d65d.png)
+
+2) Dynamic
+I use Postman
+
 
 ## 4)CI/CD
 Below you can see my first workflow file that uses dockerhub to deploy my project so I can publish it from DigitalOcean
