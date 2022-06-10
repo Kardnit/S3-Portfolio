@@ -28,8 +28,6 @@ Mi-Madre Services use Spring Framework (a robust programming and configuration m
 
 ![Backend](https://user-images.githubusercontent.com/73908937/168484415-8be31d37-2d06-4818-8f93-3ed9438accdd.png)
 
-![Workbench](https://user-images.githubusercontent.com/73908937/168484789-44843e33-83bb-4050-a2a2-0262c8aa6c10.png)
-
 Link (it will give a Whitelabel error because you need to add /work, /patterndesign or /product to the link): [Services](mi-madre-7ps3n.ondigitalocean.app)
 
 For the services I use Restful API because the user has no contact with the back-end so there is no need for a gui. 
@@ -41,7 +39,7 @@ The website has Object Relational Mapping and Asynchronous Communication.
 ### 1. JWT
 I use JWT because JSON is neater than its competitors so in an encoded form its smaller in size and this also makes it good to pass in environments like HTML or HTTP. It has less chance of producing security holes. Because its easier to work with than SAML its more common. Also, it’s easier to process on user’s devices considering it is used at internet scale.
 
-JWT Research: ![JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+JWT Research:![JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
 
 ### 2. Auth0
 I use Auth0 because it is a SaaS-based identity management platform that has features such as single sign-on, social media logins, secure identity storing, etc. with industry-standard protocols and it is one of the best identity management product on the market.
@@ -73,6 +71,8 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jackson.serialization.fail-on-empty-beans=false
 ```
+![Workbench](https://user-images.githubusercontent.com/73908937/168484789-44843e33-83bb-4050-a2a2-0262c8aa6c10.png)
+
 ### 5. Static/Dynamic code analysis
 
 |App/Tool|Type|example| 
