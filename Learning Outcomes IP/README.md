@@ -53,6 +53,8 @@ For now I only use Unit Testing and Integration Testing in this project because 
 
 ![Integration Testing](https://user-images.githubusercontent.com/73908937/172978410-9d76f81f-67ca-4637-adf5-592876c2e36e.png)
 
+Testing Research:![Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+
 ### 4. DigitalOcean Database
 I use DigitalOcean Database to store/display the products that my clients wishes to and testing purposes (by creating testing tables) the reasons I use this database are 
 
