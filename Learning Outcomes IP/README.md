@@ -39,7 +39,7 @@ The website has Object Relational Mapping and Asynchronous Communication.
 ### 1. JWT
 I use JWT because JSON is neater than its competitors so in an encoded form its smaller in size and this also makes it good to pass in environments like HTML or HTTP. It has less chance of producing security holes. Because its easier to work with than SAML its more common. Also, it’s easier to process on user’s devices considering it is used at internet scale.
 
-JWT Research:![JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
 
 ### 2. Auth0
 I use Auth0 because it is a SaaS-based identity management platform that has features such as single sign-on, social media logins, secure identity storing, etc. with industry-standard protocols and it is one of the best identity management product on the market.
@@ -53,7 +53,7 @@ For now I only use Unit Testing and Integration Testing in this project because 
 
 ![Integration Testing](https://user-images.githubusercontent.com/73908937/172978410-9d76f81f-67ca-4637-adf5-592876c2e36e.png)
 
-Testing Research:![Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
 
 ### 4. DigitalOcean Database
 I use DigitalOcean Database to store/display the products that my clients wishes to and testing purposes (by creating testing tables) the reasons I use this database are 
