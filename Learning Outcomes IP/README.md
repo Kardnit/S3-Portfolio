@@ -28,7 +28,7 @@ Mi-Madre Services used Spring Framework (a robust programming and configuration 
 
 ![Backend](https://user-images.githubusercontent.com/73908937/168484415-8be31d37-2d06-4818-8f93-3ed9438accdd.png)
 
-Link (it will give a Whitelabel error because you need to add /work, /patterndesign, or /product to the link): ![Services](https://mi-madre-7ps3n.ondigitalocean.app)
+Link (it will give a Whitelabel error because you need to add /work, /patterndesign, or /product to the link): [Services](https://mi-madre-7ps3n.ondigitalocean.app)
 
 I used Restful API for the services as the user has no contact with the back-end, so there is no need for a GUI. 
 
