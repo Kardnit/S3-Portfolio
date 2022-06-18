@@ -109,13 +109,13 @@ Below you can see how I organize my time while developing using Jira.
 
 ## 8) Professional
 
-This semester I have done two types of research (JWT and Testing). I have chosen these topics because I want to deliver a secure and error-free app to my client.
+This semester I have done two types of research (JWT and Testing). I chose these topics to deliver a secure and error-free app to my client.
 
-JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
+JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
 
-Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
+Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
 
-While doing the research, I have used DOT framework research methods and implemented 5 of these that were under the Library, Field, and Showroom categories to make sure the research I have done was as accurate as possible, and these methods were
+I used DOT framework research methods and implemented five under the Library, Field, and Showroom categories to make sure the research I had done was as accurate as possible, and these methods are as follows:
 
 ### 1. Available product analysis
 ### 2. Community research
@@ -123,4 +123,4 @@ While doing the research, I have used DOT framework research methods and impleme
 ### 4. Ethical check
 ### 5. Peer review
 
-I thought I did well this semester by learning new technologies according to my requirements and implementing them in my project in the related part. I have learned more than seven, so it was a load of stuff in a limited amount of time. I want to improve doing research, using agile methods, and software testing for the following semesters. I have implemented all the things I wanted to improve, but I believe these topics are the ones I have room to improve most.
+I thought I did well this semester, learning new technologies according to my requirements and implementing them in my project in the related part. I have learned more than seven technologies, so it was a huge workload in a limited amount of time. I want to improve in doing research, using agile methods, and software testing in the following semesters, and although I have implemented these subjects in my project, I believe these are the areas that have the room to develop the most.
