@@ -66,11 +66,11 @@ The payments don't require an interaction with the waiters and are entirely onli
 
 This semester I have done two types of research (JWT and Testing). I have chosen these topics because I want to deliver a secure and error-free app to my client.
 
-JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
-Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
-While doing these researches, I have used DOT framework research methods and implemented 5 of these that were under the Library, Field, and Showroom categories to make sure the research I have done was as accurate as possible, and these methods were
+While doing the research, I have used DOT framework research methods and implemented 5 of these that were under the Library, Field, and Showroom categories to make sure the research I have done was as accurate as possible, and these methods were
 
 ### 1. Available product analysis
 ### 2. Community research

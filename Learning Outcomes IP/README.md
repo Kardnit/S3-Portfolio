@@ -115,7 +115,7 @@ JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Rese
 
 Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
-While doing these researches, I have used DOT framework research methods and implemented 5 of these that were under the Library, Field, and Showroom categories to make sure the research I have done was as accurate as possible, and these methods were
+While doing the research, I have used DOT framework research methods and implemented 5 of these that were under the Library, Field, and Showroom categories to make sure the research I have done was as accurate as possible, and these methods were
 
 ### 1. Available product analysis
 ### 2. Community research
