@@ -28,7 +28,7 @@ Mi-Madre Services used Spring Framework (a robust programming and configuration 
 
 ![Backend](https://user-images.githubusercontent.com/73908937/168484415-8be31d37-2d06-4818-8f93-3ed9438accdd.png)
 
-Link (it will give a Whitelabel error because you need to add /work, /patterndesign, or /product to the link): [Services](mi-madre-7ps3n.ondigitalocean.app)
+Link (it will give a Whitelabel error because you need to add /work, /patterndesign, or /product to the link): ![Services](mi-madre-7ps3n.ondigitalocean.app)
 
 I used Restful API for the services as the user has no contact with the back-end, so there is no need for a GUI. 
 
@@ -39,7 +39,7 @@ The website has Object Relational Mapping and Asynchronous Communication.
 ### 1. JWT
 I used JWT since JSON is neater than its competitors, so in an encoded form, it is smaller in size, and this also makes it good to pass in environments like HTML or HTTP. It has less chance of producing security holes. Since it is easier to work with than SAML, it is more common. Furthermore, it is easier to process on user devices, considering it is used on an internet scale.
 
-JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
 ### 2. Auth0
 I used Auth0 as it is a SaaS-based identity management platform with features, such as single sign-on, social media logins, and secure identity storing, with industry-standard protocols. It is one of the best identity management products on the market.
@@ -53,7 +53,7 @@ For now, I only used Unit Testing and Integration Testing in this project as the
 
 ![Integration Testing](https://user-images.githubusercontent.com/73908937/172978410-9d76f81f-67ca-4637-adf5-592876c2e36e.png)
 
-Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
 ### 4. DigitalOcean Database
 I used DigitalOcean Database to store/display the products my clients requested and for testing purposes (by creating testing tables). My reasons for using this database are as follows:
@@ -111,9 +111,9 @@ Below you can see how I organize my time while developing using Jira.
 
 This semester I have done two types of research (JWT and Testing). I have chosen these topics because I want to deliver a secure and error-free app to my client.
 
-JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+JWT Research: [JWT Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
-Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Research)
+Testing Research: [Testing Research](https://github.com/Kardnit/Portfolio/tree/main/Researchs)
 
 While doing these researches, I have used DOT framework research methods and implemented 5 of these that were under the Library, Field, and Showroom categories to make sure the research I have done was as accurate as possible, and these methods were
 
