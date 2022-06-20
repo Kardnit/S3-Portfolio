@@ -22,17 +22,78 @@ Front-end: [Front-end](https://github.com/hummusteam/HummusFront)
 Back-end: [Back-end](https://github.com/hummusteam/HummusApp)
 
 ## 3)Agile Method
+Agile helps us manage the project and iteratively develop software. So it helps progress faster with more minor problems than the "big bang" launch. Agile delivers work in small sizes, but it is more steady progress.
 
+Agile has 12 principles:
+### 1.	Satisfy Customers Through Early & Continuous Delivery.
+### 2.	Welcome Changing Requirements Even Late in the Project.
+### 3.	Deliver Value Frequently.
+### 4.	Break the Silos of Your Project.
+### 5.	Build Projects Around Motivated Individuals.
+### 6.	The Most Effective Way of Communication is Face-to-face.
+### 7.	Working Software is the Primary Measure of Progress.
+### 8.	Maintain a Sustainable Working Pace.
+### 9.	Continuous Excellence Enhances Agility.
+### 10.	Simplicity is Essential.
+### 11.	Self-organizing Teams Generate Most Value.
+### 12.	Regularly Reflect and Adjust Your Way of Work to Boost Effectiveness
+
+
+SCRUM:
 This semester I implemented the usage of SCRUM along with the use of the project board on JIRA (IP project) and Shortcut (GP project). I had multiple development cycles (sprints), with one cycle containing 2 to 3 weeks. Everyone in the group was given scrum roles at the beginning of the semester. We had a meeting with our client at the end of every sprint. We had daily sessions in the morning and occasional peer feedback to clear up any problems if needed.
 
 ![Jira](https://user-images.githubusercontent.com/73908937/168486773-d7e882a8-2fac-4977-83bd-f3f1b21bb43e.png)
 
 ![Shortcut](https://user-images.githubusercontent.com/73908937/168486784-36156e7c-abed-4134-af07-6c802d82839e.png)
 
+KANBAN:
+This semester I implemented the usage of KANBAN along with the use of the JIRA (IP project) project board. While I was using KANBAN, I had continuous development. As the Agile Coach, I was in contact with the PO, always trying to improve according to the feedback I got from the PO. After finishing tasks (as fast as possible because of the WIP limit) on the board, I reviewed the board and decided to pull something from the backlog. I had daily standups with the PO to ensure everything was according to our PO's requirements. I always delivered the finished parts and tried to improve the progress according to feedback.
+
+![Kanban](https://user-images.githubusercontent.com/73908937/174633768-b56ece0a-548b-464f-af1b-888fcee12e6d.png)
+
+
+References:
+https://agilemanifesto.org/
+https://www.atlassian.com/agile
+https://www.scrum.org/
+https://kanbanize.com/agile/project-management/principles
+
+
 ## 5)Cultural Differences
-Our group has five different cultures in total, so whenever I spoke with someone in the group, it was a new experience. We talked about the cultures, mentality, and motivation of our group members, so we had no issues with this topic, and it was perfect for me to learn about these different things.
+### What is culture? 
+There are many answers to this question like “A system of understandings that describe how the members of a society customarily behave” or “A learned system of beliefs, feelings, and rules for living around which a group of people organizes their lives, a way of life of a particular society”. All of them are correct because it is a topic without a definitive answer, but to simply put it, it means the customary beliefs, social forms, and material traits of a racial, religious, or social group.
+
+![Culture](https://user-images.githubusercontent.com/73908937/174643338-8412e7d5-ebdf-436b-ac34-398135bd82bb.png)
+
+### Why are cultural differences significant for software engineers? 
+Software engineers hold great power with the software they create (there can be millions of users or companies using that software). So as software developers, we need to consider the consequences of not thinking about this topic because even if it seems small to us, it can create significant confusion.
+
+### My experience?
+As a group with five different cultures, it was a little bit hard to understand what everyone had in their mind because even the way of talking and thinking was different from what I was used to back in Turkey. As time passed, I got used to how everyone expressed themselves and started understanding how everyone thinks (of course, not entirely, but I understood most of it). It was a little bit hard in the beginning because it can cause some misunderstandings, but in the end, it was excellent to have so much different cultures because each of us learned something new and got comfortable around each other (for example, we understood what was counted offensive in Turkey and acted according to it).
+
+### What is ethics and why is it important in software development? 
+According to Government of Canada:
+“Derived from the Greek word “ethos”, which means “way of living”, ethics is a branch of philosophy that is concerned with human conduct, more specifically the behaviour of individuals in society. Ethics examines the rational justification for our moral judgments; it studies what is morally right or wrong, just or unjust”.
+
+![Ethics](https://user-images.githubusercontent.com/73908937/174643719-8992d2ef-b71a-4d67-b73b-baab133a10a2.png)
+
+In the last decades, companies like Facebook changed how we live, and it's not going in a good direction. If these companies start to exploit all the information they get about our lives, we will be very vulnerable. So with a power like that, all software owners/developers should consider the morality and ethics of the software they have for the safety of the person who uses it. Because this is a fundamental matter, in my IP and GP, we have taken consideration of this topic and developed our web applications according to the principles of ethical web development and other sources about this topic, like the example below:
+
+![TICT](https://user-images.githubusercontent.com/73908937/174646145-fd93a90d-6874-443e-8f3c-c584436b42ad.png)
+
+References:
+https://fhict.instructure.com/courses/12075/pages/group-management-can-you-work-with-people-from-other-cultures
+https://www.canada.ca/en/treasury-board-secretariat/services/values-ethics/code/what-is-ethics.html
+https://www.ethicalweb.org/
 
 ## 6)Requirements and Design
+For this topic, we worked with Nour and searched for different available products across the internet (using the SWOT method). We created a design proposal for the PO with the online research and the field research (FoodHalen in Amsterdam).
+
+We used Butlaro as our main inspiration while working on the design and created a simple design.
+
+![Figma](https://user-images.githubusercontent.com/73908937/174627772-e134c6bb-12c6-4564-9b0d-bcecd20663b8.png)
+
+
 We used Agile scrum, so according to the feedback we got, there were differences. 
 
 For example:
@@ -42,6 +103,13 @@ Question:
 
 Answer:
 ![Answer](https://user-images.githubusercontent.com/73908937/174280959-7bee17ae-76cf-4697-a53a-5de616433426.png)
+
+After finishing most of the basic design, I suggested using Yemeksepti (a Turkish food ordering website) in our design, too. Then we added the most user-friendly component to the website.
+
+This component helps us to add/remove ingredients inside the meal
+![Yemeksepeti](https://user-images.githubusercontent.com/73908937/174628837-6dec9f63-a635-4252-a952-496da9474c60.png)
+
+After showing this to the PO, we also got approval to use this new feature.
 
 ## 7)Business processes
 
