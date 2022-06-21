@@ -51,12 +51,22 @@ This semester I implemented the usage of KANBAN along with the use of the JIRA (
 
 ![Kanban](https://user-images.githubusercontent.com/73908937/174633768-b56ece0a-548b-464f-af1b-888fcee12e6d.png)
 
+|Difference|SCRUM|Kanban|
+|---:|---|---|
+|**Roles**| There are three roles in SCRUM. First is the SCRUM Master, who is the team's brain (helps cooperation between all roles and keeps the team focused on the work while encouraging them). Second is the Product Owner, which owns the Product backlog () and decides the release date and the content. The third is the Development Team| KANBAN doesn't necessarily require roles, but there are two roles. First is Service Delivery Manager (SDM), also known as Delivery Manager, Flow Manager, or Flow Master. SDM is responsible for ensuring a smooth workflow by managing meetings, checking how fast the board progresses, improving it, and making sure deliveries will be satisfactory to customers. The second is the Service Request Manager, who asks for new items to work on from the backlog and prioritizes them, and reduces the risk that individuals can cause by keeping track of the work that's being done|
+|**Planning**| Each Sprint starts with Sprint Planning done by the Scrum Master, the Product Owners, and the Development Team. Together they choose high-priority stories from the Product Backlog that the Development Team can finish in the decided sprint time. The selected items are called Sprint Backlog | After checking the Product Backlog, chosen items are pulled |
+|**Time Management**| SCRUM has cycles called Sprints mostly around 2-4 weeks | KANBAN is a continuous process |
+|**Meetings**| SCRUM has Daily SCRUM that takes around 5-15 minutes (if possible, no more than 15). Attendees are Scrum Master, PO, and Dev Team. It aims to confirm that everyone is on the same page | KANBAN has Daily Standup that aims the same thing as a Daily SCRUM |
+|**Delivery**| After a Sprint is over, first there is a Sprint Review (demo of the new features), second team observes how the sprint was and suggests ways to make the following sprints more efficient and effective, and lastly, completed stories are released, and incomplete stories return to the Backlog. | When an item is ready, it is released as soon as possible. A demonstration is made, and a review of the performance of the team is checked to see if there is a room for improvement  |
 
 References:
 https://agilemanifesto.org/
 https://www.atlassian.com/agile
 https://www.scrum.org/
 https://kanbanize.com/agile/project-management/principles
+https://kanbanzone.com/2019/kanban-roles-successful-project-management/
+https://kanban.university/#resources
+https://www.developmentthatpays.com/
 
 
 ## 5)Cultural Differences
