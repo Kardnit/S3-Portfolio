@@ -97,8 +97,7 @@ According to Richard Lewis, Cultural Clusters are like:
 |---:|---|
 |**Linear-Active**| Introvert, patient, quiet, minds own business, likes privacy, plans ahead methodically, does one thing at a time, works fixed hours, punctual, dominated by timetables, unemotional, accepts favors reluctantly, rarely interrupts, limited body language, brief on telephone, dislikes losing face, confronts with logic |
 |**Multi-Active**| Extrovert, impatient, talkative, inquisitive, gregarious, plans grand outline only, does several things at a time, works any hours, is not punctual, timetable unpredictable, emotional, seeks favors, and frequently interrupts, unrestricted body, talks for hours, has ready excuses, confronts emotionally |
-|**Reactive**| Introvert, patient, silent, respectful, good listener, look at general principles, reacts once, flexible hours, punctual, reacts to partner’s
-and schedules timetable, quietly caring, protects the face of others, does not interrupt, subtle body language, summarizes well, must not lose face, avoids confrontation |
+|**Reactive**| Introvert, patient, silent, respectful, good listener, look at general principles, reacts once, flexible hours, punctual, reacts to partner’s and schedules timetable, quietly caring, protects the face of others, does not interrupt, subtle body language, summarizes well, must not lose face, avoids confrontation |
 
 ![Clusters](https://user-images.githubusercontent.com/73908937/175781425-511b000e-07d1-4b48-ac32-bbb4f085600b.png)
 
