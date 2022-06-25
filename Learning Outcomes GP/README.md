@@ -75,11 +75,40 @@ There are many answers to this question like “A system of understandings that 
 
 ![Culture](https://user-images.githubusercontent.com/73908937/174643338-8412e7d5-ebdf-436b-ac34-398135bd82bb.png)
 
+### Cultural Dimensions? 
+According to Hofstede, Cultural Dimensions are like:
+|Dimension|Low Score|High Score|
+|---:|---|---|
+|**Power Distance**| Society de-emphasizes the differences between citizen’s power and wealth | Inequalities of power and wealth within society |
+|**Individualism vs. Collectivism**| Collectivist nature with close ties between individuals | Individualism and individual rights are paramount |
+|**Uncertainty Avoidance**| Tolerance for a variety of opinions, less concern about ambiguity and uncertainty | Low tolerance for uncertainty and ambiguity |
+|**Masculinity vs. Femininity**| Value social relevance, quality of life, the welfare of others | Aggressive goal behavior, high gender differentiation, males dominate |
+|**Long-term vs. Short-term Orientation**| Place less emphasis on hard work and perseverance | Embraces long-term devotion to traditional, forward-thinking values |
+
+![1](https://user-images.githubusercontent.com/73908937/175781002-40a117fd-43dc-488f-a3e6-556c6533bb52.png)
+
+![2](https://user-images.githubusercontent.com/73908937/175781011-d740e216-2ee6-4326-9e4e-129a1bb70369.png)
+
+According to the charts, I come from a country with low Individualism, Masculinity, high Power Distance, and very high Uncertainty Avoidance. Except for low Masculinity (It should be high), I agree with all the information in the charts, and anyone who visits Turkey can observe this. So coming to the Netherlands is a different experience for me.
+
+### Cultural Clusters? 
+According to Richard Lewis, Cultural Clusters are like:
+|Cluster|Explanation|
+|---:|---|
+|**Linear-Active**| Introvert, patient, quiet, minds own business, likes privacy, plans ahead methodically, does one thing at a time, works fixed hours, punctual, dominated by timetables, unemotional, accepts favors reluctantly, rarely interrupts, limited body language, brief on telephone, dislikes losing face, confronts with logic |
+|**Multi-Active**| Extrovert, impatient, talkative, inquisitive, gregarious, plans grand outline only, does several things at a time, works any hours, is not punctual, timetable unpredictable, emotional, seeks favors, and frequently interrupts, unrestricted body, talks for hours, has ready excuses, confronts emotionally |
+|**Reactive**| Introvert, patient, silent, respectful, good listener, look at general principles, reacts once, flexible hours, punctual, reacts to partner’s
+and schedules timetable, quietly caring, protects the face of others, does not interrupt, subtle body language, summarizes well, must not lose face, avoids confrontation |
+
+![Clusters](https://user-images.githubusercontent.com/73908937/175781425-511b000e-07d1-4b48-ac32-bbb4f085600b.png)
+
+Even if it is not entirely accurate, I will put myself between Multi-Active and Linear-Active. I like to socialize and talk with new people. I am patient when listening to someone, but I expect the same when talking. I like to help people, and when I am lacking, I do not mind asking for help from someone who knows the topic ( I think it is vital to help and get help from others when we are so close to professional life). While I help someone or ask for help, I realized that the ACM Code of Ethics is essential to strengthening the bond with others (for example, 1.06: Be fair and avoid deception in all statements or 1.01: Accept full responsibility for their own work or 1.08: Be encouraged to volunteer professional skills to good causes and contribute to public education concerning the discipline).
+
+### My experience with my group?
+As a group with five different cultures, it was a little bit hard to understand what everyone had in their mind because even the way of talking and thinking was different from what I was used to back in Turkey. As time passed, I got used to how everyone expressed themselves and started understanding how everyone thinks (of course, not entirely, but I understood most of it). It was a little bit hard in the beginning because it can cause some misunderstandings, but in the end, it was excellent to have so much different cultures because each of us learned something new and got comfortable around each other (for example, we understood what was counted offensive in Turkey and acted according to it).
+
 ### Why are cultural differences significant for software engineers? 
 Software engineers hold great power with the software they create (there can be millions of users or companies using that software). So as software developers, we need to consider the consequences of not thinking about this topic because even if it seems small to us, it can create significant confusion.
-
-### My experience?
-As a group with five different cultures, it was a little bit hard to understand what everyone had in their mind because even the way of talking and thinking was different from what I was used to back in Turkey. As time passed, I got used to how everyone expressed themselves and started understanding how everyone thinks (of course, not entirely, but I understood most of it). It was a little bit hard in the beginning because it can cause some misunderstandings, but in the end, it was excellent to have so much different cultures because each of us learned something new and got comfortable around each other (for example, we understood what was counted offensive in Turkey and acted according to it).
 
 ### What is ethics and why is it important in software development? 
 According to Government of Canada:
